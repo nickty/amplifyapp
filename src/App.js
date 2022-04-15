@@ -6,10 +6,7 @@ import './App.css';
 function App() {
   return (
     <div className='App'>
-      <h1>
-        Welcome git remote add origin https://github.com/nickty/amplifyapp.gitto
-        learning
-      </h1>
+      <h1>Mizan, are you using amazon amplify</h1>
     </div>
   );
 }
